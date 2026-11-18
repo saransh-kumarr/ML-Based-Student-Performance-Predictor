@@ -16,4 +16,4 @@ Uses a generated sample dataset by default. To use real data, add a `data.csv` w
 `attendance, study_hours, prev_marks, assignments, passed` (passed = 0/1).
 
 ## Live Demo
-(add your Streamlit link here)
+https://ml-based-student-performance-predictor-issbe9iokcmei3ar9z56xt.streamlit.app/
