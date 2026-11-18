@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predictor
+# ML-Based Student Performance Predictor
 
 A Streamlit web app that predicts whether a student will pass, based on attendance, study hours, previous marks and assignments completed.
 
